@@ -57,7 +57,7 @@ the Swedish historical newspaper corpus,
 KubHist. We investigate whether the new,
 extended corpus can overcome some issues
 that the older version suffered from
-when used withWord2Vec. Findings show
+when used with Word2Vec. Findings show
 a similar behaviour on the new version as
 on the old version of the corpus, when
 used with Word2Vec. However, the larger
