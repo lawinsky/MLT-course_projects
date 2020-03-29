@@ -1,5 +1,5 @@
 # mlt
-Completed course projects from Master in Language Technology at University of Gothenburg  
+Completed course projects in Master in Language Technology at University of Gothenburg  
 Author: Lawin Khalid
 
 
